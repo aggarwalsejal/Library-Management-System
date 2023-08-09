@@ -17,7 +17,7 @@ MySQL set up, follow [these](https://www.geeksforgeeks.org/how-to-install-mysql-
 * Have login functionality
 * New Student :girl: record can be stored with unique id
 * New Book :notebook_with_decorative_cover: record can be stored with unique id
-* Stastics to show the record of all the books which has been issued mentioning their status
+* Stastics :chart_with_upwards_trend: to show the record of all the books which has been issued mentioning their status
 * Issue Book page to entry the data of the issued book
 * Return Book page to entry the data of returned book
 * Logout functionality to keep the data secure and safe
