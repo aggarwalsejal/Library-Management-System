@@ -12,7 +12,7 @@
 Netbeans set up, follow [these](https://www3.ntu.edu.sg/home/ehchua/programming/howto/netbeans_howto.html) steps to install it<br>
 MySQL set, follow [these](https://www.geeksforgeeks.org/how-to-install-mysql-on-macos/) steps
 
-# :blue_book: Function
+# :blue_book: Functionalities
 
 * Have login functionality
 * New Student record can be stored with unique id
